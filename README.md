@@ -6,7 +6,7 @@ A measurement is shown in the photo below:
 ![Measurement of a turbulent boundary layer](https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/139791063/a365f942-2ffb-4ede-8066-31bf0496e495)
 
 # The equipment includes:
-+ Dantect box: It is used to measure flow velocities with a hot-wire probe
++ Dantect box (Using a hot-wire probe to measure flow velocities) and the Baratron (using a pitot static tube to measure flow velocities):
   
 ![image](https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/139791063/3c858ca2-a24e-4fe7-9362-6eb1fbe9ebb4)
 

@@ -18,11 +18,14 @@ A measurement is shown in the photo below:
 
 ![image](https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/139791063/4d4a35e4-41f9-4f1e-98a6-fcbdc53ea6d6)
 
-+ The displacement sensor
-  
-
 # The code includes:
+The .ino code moves the traverse with a command from a serial port. The command is sent from the Matlab codes.
 
+The Matlab codes read the current location of the hot-wire probe with a laser displacement sensor. 
+
+The Matlab codes control the traverse to place the probe vertically from the plate surface with feedback from the laser displacement sensor. 
+
+The Matlab codes then read the velocities from the Dantec box.
 
 # A measurement is shown in the video below:
 https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/139791063/e6ecf5bc-9d19-415a-b40f-12adae44799a

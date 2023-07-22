@@ -8,10 +8,9 @@ https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/13
 
 # The equipment includes:
 + Dantect box (Using a hot-wire probe to measure flow velocities) and the Baratron (using a pitot static tube to measure flow velocities):
+A long version of this below video can be found at: https://youtu.be/lI0LxWu6Khw
   
 ![image](https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/139791063/3c858ca2-a24e-4fe7-9362-6eb1fbe9ebb4)
-
-A long version of this above video can be found at: https://youtu.be/lI0LxWu6Khw
 
 + The hot-wire probe
 

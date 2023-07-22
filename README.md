@@ -2,13 +2,12 @@
 
 This project was developed to measure flow velocities at a vertical distance of 0.15±0.03 mm from a flat plate.
 
-A measurement is shown in the video below:
+A measurement is shown in the video below (A long version of this video can be found at: https://youtu.be/lI0LxWu6Khw):
 
 https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/139791063/e6ecf5bc-9d19-415a-b40f-12adae44799a
 
 # The equipment includes:
 + Dantect box (Using a hot-wire probe to measure flow velocities) and the Baratron (using a pitot static tube to measure flow velocities):
-A long version of this below video can be found at: https://youtu.be/lI0LxWu6Khw
   
 ![image](https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/139791063/3c858ca2-a24e-4fe7-9362-6eb1fbe9ebb4)
 

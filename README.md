@@ -11,6 +11,8 @@ https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/13
   
 ![image](https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/139791063/3c858ca2-a24e-4fe7-9362-6eb1fbe9ebb4)
 
+A long version of this above video can be found at: https://youtu.be/lI0LxWu6Khw
+
 + The hot-wire probe
 
 ![image](https://github.com/VanThuan-Hoang/measurementOfTurbulentBoundaryLayers/assets/139791063/9175bf94-0a57-45b6-8300-206a98096481)
